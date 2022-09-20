@@ -1,2 +1,2 @@
 # Tech-News
-This is New Website
+This is News Website
